@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Viaje orbital 🌎",
+        "price": 29990
+    },
+    {
+        "name": "Viaje a la luna 🌙",
+        "price": 99990
+    },
+    {
+        "name": "Viaje al sol 🌞 (solo de ida)",
+        "price": 599990
+    },
+    {
+        "name": "Viaje a Mercurio",
+        "price": 159990
+    },
+    {
+        "name": "Viaje a Venus",
+        "price": 129990
+    },
+    {
+        "name": "Viaje a Marte",
+        "price": 129990
+    },
+    {
+        "name": "Viaje por el cinturon de asteroides",
+        "price": 179990
+    },
+    {
+        "name": "Viaje orbital a Jupiter",
+        "price": 229990
+    },
+    {
+        "name": "Viaje orbital a Saturno",
+        "price": 249990
+    },
+    {
+        "name": "Viaje orbital a Urano",
+        "price": 299990
+    },
+    {
+        "name": "Viaje orbital a Neptuno",
+        "price": 319990
+    }
+]
